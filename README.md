@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+Scala Akka Streams Meetup
 =========================
 
-A minimal seed template for an Akka with Scala build 
+An example project using Scala and Akka Streams to manipulate the endless stream of data coming from a public streaming API. 
